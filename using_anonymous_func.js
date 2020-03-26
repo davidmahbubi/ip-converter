@@ -55,7 +55,11 @@ const convertIpAddress = ({ip, type}) => {
   }
 }
 
+console.log(decimalToBinaryConverter(192)) //* output: 11000000 */
+console.log(binaryToDecimalConverter(11000000)) //* output: 192 */
 console.log(convertIpAddress({
   ip: '11000000.10101000.00000001.00000001',
   type: 'binary'
-}));
+})); //* output: 192.168.1.1 */
+
+//* David >_< */
