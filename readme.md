@@ -4,7 +4,7 @@
 - Feel free to use, modify, distribute this script as you want ! 
 - Made with <3 by David Mahbubi
 
-### How to user
+### How to use
 
 - Make sure you have NodeJS installed on your machine
 - Clone this repository
