@@ -1,8 +1,8 @@
-### IP (Dec to Binary Converter)
+# IP (Dec to Binary Converter)
 
-- This is just my coding challenge btw, i don't mean wanna implement this to working web application (or maybe sometime, if i have free time ? :'V')
-- Feel free to use, modify, distribute this script as you want ! 
+- This is just my coding challenge, i don't mean to implement this stuff into working web application (or maybe sometime, if i have free time ? 😁)
 - Made with <3 by David Mahbubi
+- Of course the algorithm in this project is not really clean / efficient as you expect (Because the challenge is limited on time, so i just write everything that come to my brain ✌)
 
 ### How to use
 
